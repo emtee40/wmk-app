@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WMK App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="button">Button</string>
+    <string name="login_btn">Log In</string>
+    <string name="tracker_active_string">GPS Tracker active!</string>
+    <string name="em_address">Email</string>
+    <string name="acc_pw">Password</string>
+
+</resources>
